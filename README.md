@@ -8,9 +8,10 @@
 
 4: Editing PC Build Video
 
-5: Posting Security related content on YT, Insta, TikTok
+5: TryHackMe and Hackthebox Learning Tracks
 
-6: TryHackMe and Hackthebox Learning Tracks
+6: Bootable Kali Linux and Kali Linux Setup on VMWare
 
-7: Bootable Kali Linux and Kali Linux Setup on VMWare
+
+Posting Security related content on YT, Insta, TikTok
 
