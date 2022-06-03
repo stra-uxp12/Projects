@@ -11,3 +11,6 @@
 5: Posting Security related content on YT, Insta, TikTok
 
 6: TryHackMe and Hackthebox Learning Tracks
+
+7: Bootable Kali Linux and Kali Linux Setup on VMWare
+
