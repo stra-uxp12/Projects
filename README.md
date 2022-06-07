@@ -14,6 +14,7 @@
 
 7: Coding Exercises on Leetcode for Security Analyst Positions: 15 Easy, 45 Med, 5 Hard
 
+8: pfSense VMWare KVM
 
 Posting Security related content on YT, Insta, TikTok
 
